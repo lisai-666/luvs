@@ -1,0 +1,12 @@
+.topNav{
+  width: 60%;
+display: flex;
+}
+.navTab{
+  width: 33.3%;
+  font-size: 32rpx;
+  padding: 10rpx 30rpx;
+}
+.navTab-active{
+  font-size: 40rpx;
+}

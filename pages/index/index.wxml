@@ -1,0 +1,9 @@
+<!--pages/index/index.wxml-->
+<view class="top">
+  <view class="topNav">
+    <navigator class="navTab navTab-active">推荐</navigator>
+    <navigator class="navTab">美颜</navigator>
+    <navigator class="navTab">听书</navigator>
+  </view>
+  <view></view>
+</view>
